@@ -1,5 +1,5 @@
 # chatapp_firebase
-
+Developed a Flutter-based chat application that utilizes Firebase for secure email/password authentication, supports CRUD operations for real-time messaging and utilizes the Stream Builder method for dynamic chat updates. Additionally, the app includes search and data retrieval capabilities using Firebase queries.
 ![registration_page](https://github.com/patil-paresh/ChatApp_Flutter_Firebase/assets/130557013/0789a2df-e0e0-48bb-be47-01ce9d2819c8)
 ![login_page](https://github.com/patil-paresh/ChatApp_Flutter_Firebase/assets/130557013/7db8a7f7-8796-4833-92cc-c596cd0f0230)
 ![homepage](https://github.com/patil-paresh/ChatApp_Flutter_Firebase/assets/130557013/67984938-40c6-4931-abdc-8f88dd0fb97a)
